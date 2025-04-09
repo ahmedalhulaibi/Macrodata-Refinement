@@ -1,0 +1,4 @@
+- [ ] Refactor such that groups of numbers are binned together as opposed to single numbers becoming binnable
+- [ ] Some groups of numbers are binnable, others are not
+- [ ] Binnable numbers should wiggle slightly on hover - only 1-2 binnable numbers in the binnable group should wiggle on hover, and there's a hover cooldown
+- [ ] Binnable numbers in a group should be equivalent to a valid sudoku block (aka 3x3 and 1 through 9, no repeating digits)
